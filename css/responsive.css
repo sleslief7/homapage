@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+  .img-and-text,
+  footer {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 650px) {
+  .img-and-text {
+    flex-direction: column;
+    align-items: center;
+  }
+}
